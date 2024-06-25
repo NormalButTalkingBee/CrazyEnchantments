@@ -275,7 +275,7 @@ Settings:
       - 'Normal_Lore'
     Add-Blank-Lines: true #Dictates if each lore section listed above should have a blank line between them.
   EnchantmentOptions: #Options for enchanted books.
-    MaxAmountOfEnchantmentsToggle: true #Turn on and off the Max amount of enchantments. Use crazyenchantments.limit.# permission to set the limit.
+    MaxAmountOfEnchantmentsToggle: false #Turn on and off the Max amount of enchantments. Use crazyenchantments.limit.# permission to set the limit.
     Limit:
       Check-Perms: false # If the below permissions should be checked.
       Enable-SlotCrystal: true
